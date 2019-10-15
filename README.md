@@ -1,6 +1,6 @@
 # ReactNative
 Codes written in the course.
-<a href="https://www.e-adys.com/react-native/00-react-native/" target="_blank">Website of the course </a>
+<a href="https://erdincuzun.com/react-native/00-react-native/" target="_blank">Website of the course </a>
 
 # Other Resources
 <ul>
