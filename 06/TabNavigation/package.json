@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.6.3",
-    "react-native": "0.58.5",
+    "react-native": "0.70.2",
     "react-native-gesture-handler": "^1.0.16",
     "react-navigation": "^3.3.0"
   },
